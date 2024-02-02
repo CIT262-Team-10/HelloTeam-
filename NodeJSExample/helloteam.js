@@ -1,4 +1,4 @@
-const names = ['Isaac Maughan', 'Another Name', 'Yet Another Name'];
+const names = ['Giacomo Draghi','Isaac Maughan', 'Leonardo Mosiah','Ukaegbu Japhet Oscar'];
 
 names.forEach((name) => {
   console.log(`Hello ${name}`);
