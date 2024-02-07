@@ -1,2 +1,2 @@
-const firstName = 'Isaac Maughan'
+const firstName = 'Japhet'
 console.log(`Hello ${firstName}`)
