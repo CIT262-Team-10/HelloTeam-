@@ -4,7 +4,7 @@ import {StyleSheet, View, Text, Button} from 'react-native';
 export default function Login(props){
     return(
         <View style={styles.login}>
-            <Text>Hello Isaac Maughan</Text>
+            <Text>Hello Isaac Maughan,</Text>
             <Button title="Log In" onPress={()=>{}}></Button>
         </View>
 
